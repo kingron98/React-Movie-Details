@@ -14,7 +14,6 @@ ReactDOM.render(
         <Route path="/Page2" component={Page2} />
       </Switch>
     </BrowserRouter>
-    <App />
   </React.StrictMode>,
   document.getElementById('root')
 );
